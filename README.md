@@ -1,3 +1,2 @@
-This repo will hold the old hydra ui & new ui (made by me). 
-
+This repo will hold hydra ui
 You can use this repo if needed but its mainly for me:)
